@@ -1,4 +1,4 @@
-package harker.gutierrez.andres.ejemplopropiospringbootmaven;
+package harker.gutierrez.andres.receiverrabbitmqspring;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
